@@ -1,29 +1,12 @@
-# calculator
+#Install node.js and keep npm up to date
 
-## Project setup
-```
-npm install
-```
+#Install Vue.js using any of the methods mentioned in the link: https://coursetro.com/posts/code/133/How-to-Install-Vue-2---Through-CDN,-NPM-and-the-Vue-CLI
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#Clone the repository
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#Go in to the directory
 
-### Run your tests
-```
-npm run test
-```
+#execute the command $npm run serve 
 
-### Lints and fixes files
-```
-npm run lint
-```
+#Access using your web browser
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
